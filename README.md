@@ -7,9 +7,9 @@
 </div>
 
 > [!WARNING]
-> Kherimoya is **not ready for use right now**.
+> This version of Kherimoya is **unfinished and does not work as of now**.
 >
-> Once we move to python and write better scripts, it'll be ready for use *(though Kherimoya is still in its early development stage)*.
+> This is the version where I upgrade the scripts, and right now it's unfinished.
 
 ## introduction
 Kherimoya *(right now)* does not do much. For now, Kherimoya only sets up a "kherimoya" environment that is just a folder set up with Endstone.
@@ -28,18 +28,16 @@ The following features **WILL** be included in Kherimoya in the future.
     <li>Move to python instead of shell
     <li>Better scripts, ones that do not rely on a project path declared in the scripts
     <li>More features like server status, discord bot, etc... (discord bot may just become extension)
-    <li>Windows compatability
     <li>Automatic server backups
 </ul>
 The following features <strong>MAY</strong> be includeded in Kherimoya in the future
 <ul>
     <li>Extensions
     <li>Custom API for plugins
+    <li>Windows compatability
 </ul>
 
 ## setup
-
-### NOTE: Kherimoya is NOT ready for use. I don't recommend using it until I make the scripts better.
 
 ### Linux instructions
 1. Clone the repo
